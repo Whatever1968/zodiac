@@ -1,0 +1,30 @@
+h1 {
+	position: absolute;
+	right: 40%;
+	top:10%;
+	color: #FF00FF;
+	text-align: center;
+	word-spacing: 10px;
+}
+div {
+	position: absolute;
+	right: 50%;
+	top: 25%;
+}
+button {
+	margin-left: 30%;
+	margin-top: 5%;
+	color: #FF00FF;
+	position: relative;
+	top: 15px;
+}
+p {
+	color: #FF00FF;
+	text-align: center;
+	font-size: large;
+	background-color: #FFF0E0;
+
+	
+}
+
+	
