@@ -1,3 +1,5 @@
+
+/*positions the H1 tag to center of page*/
 h1 {
 	position: absolute;
 	right: 40%;
@@ -6,25 +8,42 @@ h1 {
 	text-align: center;
 	word-spacing: 10px;
 }
+/*positions the input and button to center of page*/
 div {
 	position: absolute;
-	right: 50%;
+	right: 42%;
 	top: 25%;
 }
+
+/*positions & styles the button pink*/
 button {
 	margin-left: 30%;
 	margin-top: 5%;
 	color: #FF00FF;
 	position: relative;
 	top: 15px;
+	right:9%;
 }
 p {
-	color: #FF00FF;
+	color: black;
 	text-align: center;
-	font-size: large;
-	background-color: #FFF0E0;
-
-	
+	font-size: large;	
 }
 
-	
+p {
+    position: relative;
+    top: 65px;
+ }
+img#img {
+    position: relative;
+    top: 45px;
+    left: 30px;
+}
+
+a {
+    color: white;
+    position: relative;
+    left: 45%;
+    top: 65px;
+}
+
